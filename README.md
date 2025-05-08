@@ -69,7 +69,7 @@
 
 ```sh
 git clone https://github.com/ramywageh/ToDo-List-DevOps-Project.git
-cd DEPI-ToDoList
+cd ToDo-List-DevOps-Project
 ```
 
 ### **2️⃣ Initialize Terraform**
